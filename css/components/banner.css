@@ -1,0 +1,20 @@
+.banner {
+  background-image: url("../../images/background.png");
+  background-size: cover;
+  background-position: center;
+}
+
+.banner h1 {
+  color: white;
+}
+
+.banner p {
+  color: rgb(206, 206, 206);
+  font-weight: 500;
+}
+
+.banner-headlines {
+  display: inline-block;
+  flex-direction: column;
+  padding: 200px;
+}
